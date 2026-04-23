@@ -92,12 +92,12 @@ const ContactUs = () => {
               <Box className="flex items-center space-x-4">
                 <LocationOn className="text-yellow-400" />
                 <Typography variant="body1">
-                  123 Hospitality Lane, Mumbai, Maharashtra 400001, India
+                  Assi Ghat, Varanasi, Uttar Pradesh 221005, India
                 </Typography>
               </Box>
               <Box className="flex items-center space-x-4">
                 <Phone className="text-yellow-400" />
-                <Typography variant="body1">+91 98765 43210</Typography>
+                <Typography variant="body1">+91 8400221176</Typography>
               </Box>
               <Box className="flex items-center space-x-4">
                 <Email className="text-yellow-400" />
@@ -238,7 +238,7 @@ const ContactUs = () => {
             data-aos="zoom-in"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.7138707083573!2d77.31709921075897!3d28.578353575592946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce4595fb7a80d%3A0xff1dc35f4e024e9!2sQSpiders%20Noida-Software%20Development%20Training%20%26%20Placement%20Institute!5e0!3m2!1sen!2sin!4v1776489667186!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.567993040804!2d83.0055983150442!3d25.28209398385692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2e2b3b7a4f3f%3A0x1f6b6e2b8f6e8f0!2sAssi%20Ghat!5e0!3m2!1sen!2sin!4v1680000000000!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}

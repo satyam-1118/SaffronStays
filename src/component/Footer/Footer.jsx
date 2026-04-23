@@ -56,8 +56,8 @@ const Footer = () => {
           <Grid item xs={12} sm={6} md={3}>
             <Typography variant="h6" fontWeight="bold">Contact</Typography>
             <Box mt={2}>
-              <Typography>+91 9359803710</Typography>
-              <Typography>adityanathe@saffronstay.com</Typography>
+              <Typography>+91 8400221176</Typography>
+              <Typography>satyam@saffronstay.com</Typography>
               <Typography>support@saffronstay.com</Typography>
             </Box>
           </Grid>
@@ -86,7 +86,7 @@ const Footer = () => {
       {/* Copyright */}
       <Box sx={{ marginTop: "3rem", textAlign: "center" }}>
         <Typography variant="body2">
-          &copy; {currentYear} SaffronStay. All rights reserved.
+          &copy; {currentYear} SaffronStay || All rights reserved.
         </Typography>
       </Box>
     </Paper>

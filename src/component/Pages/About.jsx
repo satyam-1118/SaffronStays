@@ -38,10 +38,10 @@ import cottages from "../../assets/About/cottages.webp";
 import camps from "../../assets/About/camp.webp";
 import homestays from "../../assets/About/homestay.webp";
 import villa from "../../assets/About/villa.webp";
-import CEO from "../../assets/About/Utkarsh.png";
-import HOD from "../../assets/About/Basab.png";
-import EMP from "../../assets/About/Shreshth.png";
-import Founder from "../../assets/About/Sarvesh.jpeg";
+import CEO from "../../assets/About/mohit.jpeg";
+import HOD from "../../assets/About/Hariom.jpeg";
+import EMP from "../../assets/About/nilesh.jpeg";
+import Founder from "../../assets/About/Satyam.jpeg";
 import Hero from "../../assets/HomePage/houseImg.jpg";
 import SocialMedia from "../Footer/SocialMedia";
 import { staysContext } from "../AppContext/TentsContext";
@@ -125,27 +125,27 @@ const About = () => {
 
   const teamMembers = [
     {
-      name: "Sarvesh Sir",
+      name: "Satyam Tiwari",
       position: "Founder & CEO",
-      bio: "With over 15 years in hospitality, founded Saffron Stays with a vision to redefine experiential stays in India.",
+      bio: "Satyam Tiwari is the founder of Saffron Stay, committed to delivering exceptional hospitality experiences.",
       image: Founder,
     },
     {
-      name: "Utkarsh Sir",
+      name: "Mohit Singh",
       position: "Chief Experience Officer",
-      bio: "Rahul ensures every Saffron Stay delivers memorable experiences through innovative hospitality solutions.",
+      bio: "Mohit ensures every Saffron Stay delivers memorable experiences through innovative hospitality solutions.",
       image: CEO,
     },
     {
-      name: "Basab Sir",
+      name: "Hariom Tiwari",
       position: "Head of Design",
-      bio: "Ananya brings spaces to life through thoughtful design that honors local culture while providing modern comfort.",
+      bio: "Hariom brings spaces to life through thoughtful design that honors local culture while providing modern comfort.",
       image: HOD,
     },
     {
-      name: "Shreshth Sir",
+      name: "Nilesh Yadav",
       position: "Operations Director",
-      bio: "Vikram oversees the seamless functioning of all Saffron properties, maintaining our high standards of service.",
+      bio: "Nilesh oversees the seamless functioning of all Saffron properties, maintaining our high standards of service.",
       image: EMP,
     },
   ];
